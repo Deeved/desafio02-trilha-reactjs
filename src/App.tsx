@@ -1,12 +1,9 @@
 import { useState } from 'react';
 
-import './styles/global.scss';
-
 import { SideBar } from './components/SideBar';
 import { Content } from './components/Content';
 
-import './styles/content.scss';
-
+import './styles/global.scss';
 
 export function App() {
 
